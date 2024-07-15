@@ -1,4 +1,4 @@
-package arrays;
+package arrays_day_1;
 
 import java.util.Arrays;
 public class ChocolateDistribution {

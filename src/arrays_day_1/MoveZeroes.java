@@ -1,4 +1,4 @@
-package arrays;
+package arrays_day_1;
 
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {

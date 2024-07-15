@@ -1,4 +1,4 @@
-package arrays;
+package arrays_day_1;
 public class BuyAndSellStock {
     public int maxProfit(int[] prices) {
         //check if prices are null
