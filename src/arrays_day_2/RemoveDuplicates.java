@@ -14,4 +14,8 @@ public class RemoveDuplicates {
         }
         return uniqueIndex;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
